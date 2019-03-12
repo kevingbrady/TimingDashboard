@@ -1,0 +1,150 @@
+
+body{
+    background: snow;
+    font-style: normal;
+}
+
+.navbar{
+
+      border-radius: 0;
+      background-color: firebrick;
+}
+
+h2{
+    text-align: center;
+    background-color: snow;
+    color: #122b40;
+}
+
+button{
+    margin: auto;
+    display: block;
+    font-style: normal;
+}
+
+.message th{
+
+    text-align: center;
+    font-size: large;
+    background-color: crimson;
+    color: whitesmoke;
+
+}
+
+.Announce_Message_Table table {
+
+    font-style: oblique;
+    background-color: lightgoldenrodyellow;
+    table-layout: fixed;
+
+}
+
+.Announce_Message_Table table thead {
+
+
+    color: whitesmoke;
+    background-color: darkgrey;
+
+}
+
+.Holdover thead{
+
+    display: table;
+    background-color: royalblue;
+    font-style: oblique;
+    color: whitesmoke;
+    width: 100%;
+
+}
+
+.Holdover tbody{
+
+
+    display: table;
+    background-color: lightgoldenrodyellow;
+    font-style: oblique;
+    width: 100%;
+
+
+}
+
+.LeapSecond thead{
+
+    display: table;
+    background-color: green;
+    font-style: oblique;
+    color: whitesmoke;
+    width: 100%;
+
+}
+
+.LeapSecond tbody{
+
+    display: table;
+    background-color: lightgoldenrodyellow;
+    font-style: oblique;
+    width: 100%;
+
+}
+
+.ATOI thead{
+
+    display: table;
+    background-color: peru;
+    font-style: oblique;
+    color: whitesmoke;
+    width: 100%;
+
+}
+
+.ATOI tbody{
+
+    display: table;
+    background-color: lightgoldenrodyellow;
+    font-style: oblique;
+    width: 100%;
+
+}
+
+.MulticastMAC thead{
+
+    display: table;
+    background-color: purple;
+    font-style: oblique;
+    color: whitesmoke;
+    width: 100%;
+
+}
+
+.MulticastMAC tbody{
+
+    display: table;
+    background-color: lightgoldenrodyellow;
+    font-style: oblique;
+    width: 100%;
+
+}
+
+.BMCA thead{
+
+    display: table;
+    background-color: darkgoldenrod;
+    color: whitesmoke;
+    width: 100%;
+}
+
+.BMCA tbody{
+
+    display: table;
+    width: 100%;
+    background-color: darkgrey;
+}
+
+
+.BMCA td{
+
+    background-color: lightgoldenrodyellow;
+
+
+}
+
